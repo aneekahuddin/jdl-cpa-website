@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+
+}
+.themeboxes {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: DodgerBlue;
+  justify-content: center;
+}
+
+.themeboxes > div {
+  background-color: #FDCA40;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+  flex-grow:1;
+}
+
+.quotecards {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.quotecards > div {
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    flex-grow:1;
+  }
+
+
