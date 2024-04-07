@@ -22,6 +22,7 @@ var englishQuotes = [
 
 
 var hindiQuotes = [
+    `हिमांशु: मुझे लगता है के दोनों जगह कुछ समुदायों में बड़प्पन का भावव है, ब्लैकनेस्स में श्वेत लोगों को लगता है के अश्वेत उनसे ऊपर नहीं है और और ब्राह्मणवादी विचार में बाकी जातियाँ उनसे ऊपर नहीं हैं। तो एक प्रकार से वर्चसववादी ढांचा काम कर रहा है।`,
     `"Our primary motivation for organizing this gathering today was to center the question of caste and brahmanism in understanding policing and carcerality in the Indian context, not just as an aspect of power in India, but as the genesis of power. And embracing policing, not just in terms of the way that we formally understand policing as being confined to the police department or departments, but as a way of being, which is rooted in casteist carceral forms of disciplining.” - Nikita` ,
     `“How do you feel invited into complicity with brahminism and/or whiteness in your everyday life?” - Lilly + Palashi`,
     `“Global solidarity building is the work of continuous translation” - Palashi`,
